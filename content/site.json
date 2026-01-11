@@ -1,0 +1,23 @@
+{
+  "businessName": "Business 87bbc248-a160-485d-aed3-10afb542e11f",
+  "industry": "business-87bbc248-a160-485d-aed3-10afb542e11f",
+  "tagline": "Professional business-87bbc248-a160-485d-aed3-10afb542e11f services you can trust",
+  "phone": "",
+  "email": "",
+  "address": "",
+  "services": [
+    "Consultation Services",
+    "Implementation Support",
+    "Compliance & Review",
+    "Training & Development"
+  ],
+  "socialMedia": {
+    "linkedin": "",
+    "facebook": "",
+    "twitter": ""
+  },
+  "theme": {
+    "primaryColor": "#1e3a8a",
+    "accentColor": "#d4af37"
+  }
+}
